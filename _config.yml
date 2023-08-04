@@ -1,6 +1,6 @@
-title: "Kasimir Dederichs"
-author: "Kasimir Dederichs"
-description: "© 2022 - Kasimir Dederichs, powered by the contrast theme on Jekyll (nicklasbuschmann)"
+title: "21 Day Refresher Course on Agroforestry"
+author: "Suresh Ramanan S., A. Arunachalam and A.K. Handa"
+description: "© 2023 - ICAR-CAFRI, powered by the contrast theme on Jekyll"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,17 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.html"}
-  - {title: "Publications", file: "publications.md"}
-  - {title: "Teaching", file: "teaching.md"}
+  - {title: "Lecture notes", file: "teaching.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kasimir.dederichs@nuffield.ox.ac.uk"}
-  - {title: Github, icon: github, url: "https://github.com/kasimirdederichs"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/Kasimir_D"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+  - {title: Mail, icon: envelope, url: "mailto:cafriprograms@gmail.com"}
 
 plugins:
 # - jekyll-feed
